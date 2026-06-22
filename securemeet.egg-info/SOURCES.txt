@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+securemeet/__init__.py
+securemeet/metadata.py
+securemeet/recorder.py
+securemeet/storage.py
+securemeet/utils.py
+securemeet.egg-info/PKG-INFO
+securemeet.egg-info/SOURCES.txt
+securemeet.egg-info/dependency_links.txt
+securemeet.egg-info/requires.txt
+securemeet.egg-info/top_level.txt
+tests/test_recorder.py

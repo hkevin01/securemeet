@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: securemeet
+Version: 1.0.0
+Summary: Local-only secure meeting recorder
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/plain
+License-File: LICENSE
+Requires-Dist: sounddevice
+Requires-Dist: soundfile
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+SecureMeet is a tiny auditable Python package that records from a local microphone, writes timestamped WAV files, and stores metadata in SQLite.
